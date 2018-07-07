@@ -10,3 +10,7 @@ This repo contains all of the data analysis for the mentioned Body Fat data. It 
 * figure folder: includes all figures/images/tables produced in our analysis
 * summary folder: a Jupyter Notebook summary and its html file for our analysis.
 * slide folder: a Jupyter Notebook slide and its html file for presetation.
+
+This project came up with a simple principle to calculate body fat given weight & abdomen:
+$$BodyFat (%) = -50 + 0.3Weight(kg) + Abdomen(cm)$$
+with an Residual Mean Square Error equals to 22.1.
