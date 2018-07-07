@@ -12,5 +12,7 @@ This repo contains all of the data analysis for the mentioned Body Fat data. It 
 * slide folder: a Jupyter Notebook slide and its html file for presetation.
 
 This project came up with a simple principle to calculate body fat given weight & abdomen:
-$ BodyFat (%) = -50 + 0.3Weight(kg) + Abdomen(cm) $
+
+BodyFat (%) = -50 + 0.3Weight(kg) + Abdomen(cm)
+
 with an Residual Mean Square Error equals to 22.1.
